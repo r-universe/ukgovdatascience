@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "govdown"]
+	path = govdown
+	url = https://github.com/ukgovdatascience/govdown
+	shallow = true
+	registered = true
